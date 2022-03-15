@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{6DD42ABC-2154-482B-94D8-8BC3A0D5958A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Mission07 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission07/Models/IdentitySeedData.cs">
+    <Files>
+      <File FileName="Mission07/Models/AppIdentityDBContext.cs" Line="11" Column="10" />
+      <File FileName="Mission07/appsettings.json" Line="12" Column="57" />
+      <File FileName="Mission07/Startup.cs" Line="70" Column="36" />
+      <File FileName="Mission07/Models/IdentitySeedData.cs" Line="6" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mission07" expanded="True">
+            <Node name="Mission07" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="IdentitySeedData.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
