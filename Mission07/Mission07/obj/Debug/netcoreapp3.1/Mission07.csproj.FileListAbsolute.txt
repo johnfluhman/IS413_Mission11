@@ -451,3 +451,4 @@
 /Users/johnfluhman/Documents/GitHub/IS413_Mission11/Mission07/Mission07/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 /Users/johnfluhman/Documents/GitHub/IS413_Mission11/Mission07/Mission07/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
 /Users/johnfluhman/Documents/GitHub/IS413_Mission11/Mission07/Mission07/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+/Users/johnfluhman/Documents/GitHub/IS413_Mission11/Mission07/Mission07/obj/Debug/netcoreapp3.1/Razor/Views/Account/Login.cshtml.g.cs
